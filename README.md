@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @solidbell28
+- 👀 I’m interested in: everything connected with neural networks
+- 🌱 I’m currently learning: DL/ML course by MIPT; Backend basics
+- 💞️ I’m looking to collaborate on: any project connected with ML/DL
+- 📫 How to reach me: Telegram @kngfw
