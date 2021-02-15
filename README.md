@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @solidbell28
+- 👋 Hi, I’m Ilya
 - 👀 I’m interested in: everything connected with neural networks
 - 🌱 I’m currently learning: DL/ML course by MIPT; Backend basics
 - 💞️ I’m looking to collaborate on: any project connected with ML/DL
