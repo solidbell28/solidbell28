@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ilya
-- 👀 I’m interested in: everything connected with neural networks
-- 🌱 I’m currently learning: DL/ML course by MIPT; Backend basics
+- 👀 I’m interested in: everything connected with system programming and neural networks
+- 🌱 I’m currently learning: C++ and OS basics
 - 💞️ I’m looking to collaborate on: any project connected with ML/DL
 - 📫 How to reach me: Telegram @kngfw
