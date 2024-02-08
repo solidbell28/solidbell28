@@ -1,1 +1,1 @@
-- 📫 How to reach me: Telegram @kngfw
+- 📫 How to reach me: Telegram @tsybanov
